@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Isha 👋
 
-<!--
-**isha532/isha532** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI and Data Science Student** at Government College of Engineering, Ratnagiri  
+Turning raw data into meaningful insights · Aspiring Data Analyst
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 About Me
+- 📊 Aspiring Data Analyst — learning to tell stories with data
+- 🌱 Currently learning: Python · SQL · Pandas · Data Visualization
+- 🎯 Goal: Data Analyst internship
+- 📍 Ratnagiri, Maharashtra, India
+
+---
+
+*Open to Data Analyst internships & collaborations — let's explore data together!*
