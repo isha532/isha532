@@ -27,4 +27,4 @@ Python | SQL | Git | GitHub
 
 LinkedIn:www.linkedin.com/in/isha-raut-06b93b27b
 GitHub:https://github.com/isha532
-Email:
+Email:rautisha11@gmail.com
