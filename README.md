@@ -1,16 +1,30 @@
-# Hi, I'm Isha 👋
+# Hi there 👋, I'm Isha Raut
 
-**AI and Data Science Student** at Government College of Engineering, Ratnagiri  
-Turning raw data into meaningful insights · Aspiring Data Analyst
+💻 Aspiring Software Developer
+🎓 B.Tech in Artificial Intelligence & Data Science
+📍 Maharashtra, India
 
----
+## 🚀 About Me
 
-### 📌 About Me
-- 📊 Aspiring Data Analyst — learning to tell stories with data
-- 🌱 Currently learning: Python · SQL · Pandas · Data Visualization
-- 🎯 Goal: Data Analyst internship
-- 📍 Ratnagiri, Maharashtra, India
+- Passionate about Web Development and AI
+- Currently improving my Full Stack Development skills
+- Looking for Software Development Internship opportunities
+- Love building real-world projects
 
----
+## 🛠️ Tech Stack
 
-*Open to Data Analyst internships & collaborations — let's explore data together!*
+HTML | CSS | JavaScript | React
+Python | SQL | Git | GitHub
+
+## 📂 Featured Projects
+
+🌐 Portfolio Website
+📊 AI CSV Importer
+🤖 AI Chatbot
+📈 Stock Market Trend Classification
+
+## 📫 Connect With Me
+
+LinkedIn:www.linkedin.com/in/isha-raut-06b93b27b
+GitHub:https://github.com/isha532
+Email:
